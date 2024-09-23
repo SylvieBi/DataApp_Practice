@@ -1,5 +1,5 @@
 
-pip install -r requirements.txtimport streamlit as st
+# pip install -r requirements.txtimport streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
