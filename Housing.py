@@ -1,5 +1,6 @@
-
-# pip install -r requirements.txtimport streamlit as st
+pip install streamlit
+pip install streamlit matplotlib WordCloud seabornpython
+import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
